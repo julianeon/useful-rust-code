@@ -4,7 +4,7 @@ A repo with useful rust code you can also run.
 
 ## moodtracker.rs
 
-An abbreviated version of this repo, with just the code to run (dependencies will need to be installed separately).
+An abbreviated version of [this repo](https://github.com/julianeon/moodtracker), with just the code to run (dependencies will need to be installed separately).
 
 ## spacefiller.rs
 
