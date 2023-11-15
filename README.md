@@ -8,4 +8,4 @@ An abbreviated version of [this repo](https://github.com/julianeon/moodtracker),
 
 ## spacefiller.rs
 
-A script which fills your hard drive with permutations of the alphabet. 
+A script which fills your hard drive by saving permutations of the alphabet to a file. 
